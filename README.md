@@ -12,3 +12,6 @@ financial risk for crop-district combinations in Tamil Nadu.
 1. Clone the repo
 2. Install requirements: pip install scikit-learn pandas
 3. Run: python app.py
+
+## Live Link
+https://ljk92ovxfn5tkw5jst7pae.streamlit.app/
